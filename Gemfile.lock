@@ -1,11 +1,12 @@
 PATH
-  remote: /Users/jed/Dropbox/Code/toadstool-rails
+  remote: /Users/jed/Dropbox/Code/toadstool-engine
   specs:
     toadstool (0.0.1)
       haml-rails
       rails (~> 3.2.13)
       rdiscount (~> 1.6.8)
       stipe (~> 0.0.5)
+      thor
 
 GEM
   remote: https://rubygems.org/

@@ -24,7 +24,7 @@ end
 
 gem 'jquery-rails'
 
-gem 'toadstool', '0.0.1', path: '/Users/jed/Dropbox/Code/toadstool-rails'
+gem 'toadstool', '0.0.1', path: '/Users/jed/Dropbox/Code/toadstool-engine'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
