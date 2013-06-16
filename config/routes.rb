@@ -1,4 +1,7 @@
 App::Application.routes.draw do
+  
+  mount Toadstool::Engine, at: "/styleguide"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
